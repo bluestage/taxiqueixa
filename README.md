@@ -4,7 +4,7 @@
 O  **TáxiQueixa** é uma plataforma que possibilita os clientes reclamarem sobre o serviço prestado numa viagem. Através desta plataforma os taxistas, associações de táxis ou centrais de táxis podem consultar todas as opiniões e avaliações feitas pelos passageiros. Em alguns casos, quando registados, os proprietários podem responder às reclamações feitas sobre o seu veículo. Este projeto nasceu com base na ideia de que é possível melhorar ainda mais o serviço prestado por estes profissionais.
 
 
-# 📗 Base de Dados
+## 📗 Base de Dados
 
 A quantidade de veículos existentes em Portugal foi consultada no micro-site da [AMT - Autoridade da Mobilidade e dos Transportes](taxis.amt-autoridade.pt). Os dados nele contido são relativos a 2016, sendo que, é necessária a constante actualização da base de dados da plataforma **TáxiQueixa**.
 

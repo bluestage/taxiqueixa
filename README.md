@@ -54,3 +54,4 @@ URL da API
 * `Alojamento` : A **TáxiQueixa** está partilhado com a [
 BlueStage](https://bluestage.net), os servidores são da [One.com](http://one.me/ptawsdls).
 * `Domínio` : Está registado com a [One.com](http://one.me/ptawsdls)
+ 
